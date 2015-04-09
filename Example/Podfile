@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'SocaCryptor', :exclusive => true do
+  pod "SocaCryptor", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end
