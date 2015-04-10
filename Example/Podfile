@@ -1,9 +1,29 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
+use_frameworks!
 
-target 'SocaCryptor', :exclusive => true do
-  pod "SocaCryptor", :path => "../"
+target 'SocaCryptoiOS', :exclusive => true do
+  pod "SocaCrypto", :path => "../"
+end
 
-  pod 'Specta'
-  pod 'Expecta'
+target 'SocaCryptoiOSTests', :exclusive => true do
+    pod "SocaCrypto", :path => "../"
+    
+    pod 'Specta'
+    pod 'Expecta'
+end
+
+target 'SocaCryptoOSX', :exclusive => true do
+    platform :osx, '10.10'
+    
+    pod "SocaCrypto", :path => "../"
+end
+
+target 'SocaCryptoOSXTests', :exclusive => true do
+    platform :osx, '10.10'
+    
+    pod "SocaCrypto", :path => "../"
+    
+    pod 'Specta'
+    pod 'Expecta'
 end

@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (0.4.0)
+  - SocaCrypto (0.1.0)
+  - Specta (0.5.0)
+
+DEPENDENCIES:
+  - Expecta
+  - SocaCrypto (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  SocaCrypto:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 392a6b5bfb9f4097e47dd8064d9b732079490332
+  SocaCrypto: d517842c824f08015457afb09a87021cf8d981aa
+  Specta: eb90708ed77569bbda089f8ead10bb99b8e9489e
+
+COCOAPODS: 0.36.3

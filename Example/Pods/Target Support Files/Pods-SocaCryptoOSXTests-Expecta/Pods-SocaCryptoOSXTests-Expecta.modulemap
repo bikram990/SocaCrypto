@@ -1,0 +1,6 @@
+framework module Expecta {
+  umbrella header "Pods-SocaCryptoOSXTests-Expecta-umbrella.h"
+
+  export *
+  module * { export * }
+}
