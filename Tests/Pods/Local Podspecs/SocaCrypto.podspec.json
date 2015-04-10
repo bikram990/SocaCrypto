@@ -1,9 +1,9 @@
 {
   "name": "SocaCrypto",
   "version": "0.1.0",
-  "summary": "A short description of SocaCryptor.",
-  "description": "                       An optional longer description of SocaCryptor\n\n                       * Markdown format.\n                       * Don't worry about the indent, we strip it!\n",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/SocaCryptor",
+  "summary": "An Objective-C wrapper of CommonCrypto for Soca.",
+  "description": "                       You probably never need this, see the SocaCore and Soca for what your want.\n",
+  "homepage": "https://github.com/zhuhaow/SocaCrypto",
   "license": "MIT",
   "authors": {
     "Zhuhao Wang": "zhuhaow@gmail.com"
