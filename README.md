@@ -1,6 +1,6 @@
 # SocaCryptor
 
-[![CI Status](http://img.shields.io/travis/zhuhaow/SocaCryptor.svg?style=flat)](https://travis-ci.org/zhuhaow/SocaCryptor)
+[![CI Status](http://img.shields.io/travis/zhuhaow/SocaCrypto.svg?style=flat)](https://travis-ci.org/zhuhaow/SocaCrypto)
 
 You probably never need this, see the SocaCore and Soca for what your want.
 
