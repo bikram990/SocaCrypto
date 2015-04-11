@@ -1,6 +1,5 @@
 #import <UIKit/UIKit.h>
 
-#import "SocaCrypto.h"
 #import "SOCACryptor.h"
 #import "SOCADigest.h"
 

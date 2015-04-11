@@ -1,6 +1,5 @@
 #import <Cocoa/Cocoa.h>
 
-#import "SocaCrypto.h"
 #import "SOCACryptor.h"
 #import "SOCADigest.h"
 
