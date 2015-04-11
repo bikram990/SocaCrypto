@@ -6,10 +6,9 @@
 //  Copyright (c) 2015 Zhuhao Wang. All rights reserved.
 //
 
-#import <Specta/Specta.h>
-#import <Expecta/Expecta.h>
-#import <SocaCrypto/SocaCrypto.h>
-#import <CommonCrypto/CommonCrypto.h>
+@import Specta;
+@import Expecta;
+@import SocaCrypto;
 
 SpecBegin(SOCADigest)
 
