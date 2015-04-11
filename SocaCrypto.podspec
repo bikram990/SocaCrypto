@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "SocaCrypto"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "An Objective-C wrapper of CommonCrypto for Soca."
   s.description      = <<-DESC
                        You probably never need this, see the SocaCore and Soca for what your want.
